@@ -1,0 +1,1 @@
+pub fn search(query: &str, text: &str) {
