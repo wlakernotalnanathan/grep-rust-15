@@ -6,3 +6,5 @@ Simple grep tool to filter line patterns in Rust.
 Clone this project and look at the source files:
 - `main.rs`
 - `lib.rs`
+
+*Initialized by wlakernotalnanathan workspace automation.*
